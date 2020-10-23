@@ -1,0 +1,9 @@
+java Lab3Main.java 10 > hash10Distinct.txt
+java Lab3Main.java 50 > hash50Distinct.txt
+java Lab3Main.java 100 > hash100Distinct.txt
+java Lab3Main.java 500 > hash500Distinct.txt
+java Lab3Main.java 1000 > hash1000Distinct.txt
+java Lab3Main.java 5000 > hash5000Distinct.txt
+java Lab3Main.java 10000 > hash10000Distinct.txt
+java Lab3Main.java 11000 > hash11000Distinct.txt
+java Lab3Main.java 13000 > hash13000Distinct.txt

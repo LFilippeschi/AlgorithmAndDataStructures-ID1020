@@ -1,0 +1,90 @@
+Size: 10 InserionSort
+Time elapsed over an average of 300 runs: 139
+Size: 10 MergeSort
+Time elapsed over an average of 300 runs: 491
+Size: 10 MergeSort with cut off 5
+Time elapsed over an average of 300 runs: 307
+Size: 10 MergeSort with cut off 10
+Time elapsed over an average of 300 runs: 543
+Size: 10 MergeSort with cut off 20
+Time elapsed over an average of 300 runs: 244
+Size: 10 MergeSort with cut off 30
+Time elapsed over an average of 300 runs: 212
+Size: 10 MergeSort with cut off 50
+Time elapsed over an average of 300 runs: 209
+Size: 10 QuickSort
+Time elapsed over an average of 300 runs: 316
+Size: 10 QuickSortMOT
+Time elapsed over an average of 300 runs: 291
+Size: 100 InserionSort
+Time elapsed over an average of 300 runs: 12878
+Size: 100 MergeSort
+Time elapsed over an average of 300 runs: 3280
+Size: 100 MergeSort with cut off 5
+Time elapsed over an average of 300 runs: 6367
+Size: 100 MergeSort with cut off 10
+Time elapsed over an average of 300 runs: 3627
+Size: 100 MergeSort with cut off 20
+Time elapsed over an average of 300 runs: 7393
+Size: 100 MergeSort with cut off 30
+Time elapsed over an average of 300 runs: 2980
+Size: 100 MergeSort with cut off 50
+Time elapsed over an average of 300 runs: 2000
+Size: 100 QuickSort
+Time elapsed over an average of 300 runs: 2999
+Size: 100 QuickSortMOT
+Time elapsed over an average of 300 runs: 1356
+Size: 1000 InserionSort
+Time elapsed over an average of 300 runs: 121788
+Size: 1000 MergeSort
+Time elapsed over an average of 300 runs: 63149
+Size: 1000 MergeSort with cut off 5
+Time elapsed over an average of 300 runs: 51200
+Size: 1000 MergeSort with cut off 10
+Time elapsed over an average of 300 runs: 43702
+Size: 1000 MergeSort with cut off 20
+Time elapsed over an average of 300 runs: 33433
+Size: 1000 MergeSort with cut off 30
+Time elapsed over an average of 300 runs: 42270
+Size: 1000 MergeSort with cut off 50
+Time elapsed over an average of 300 runs: 29155
+Size: 1000 QuickSort
+Time elapsed over an average of 300 runs: 37237
+Size: 1000 QuickSortMOT
+Time elapsed over an average of 300 runs: 30014
+Size: 10000 InserionSort
+Time elapsed over an average of 300 runs: 8503801
+Size: 10000 MergeSort
+Time elapsed over an average of 300 runs: 922711
+Size: 10000 MergeSort with cut off 5
+Time elapsed over an average of 300 runs: 815542
+Size: 10000 MergeSort with cut off 10
+Time elapsed over an average of 300 runs: 708509
+Size: 10000 MergeSort with cut off 20
+Time elapsed over an average of 300 runs: 670019
+Size: 10000 MergeSort with cut off 30
+Time elapsed over an average of 300 runs: 667724
+Size: 10000 MergeSort with cut off 50
+Time elapsed over an average of 300 runs: 662214
+Size: 10000 QuickSort
+Time elapsed over an average of 300 runs: 680584
+Size: 10000 QuickSortMOT
+Time elapsed over an average of 300 runs: 671081
+Size: 100000 InserionSort
+Time elapsed over an average of 49 runs: 871961793
+Size: 100000 MergeSort
+Time elapsed over an average of 998 runs: 10851992
+Size: 100000 MergeSort with cut off 5
+Time elapsed over an average of 998 runs: 10239166
+Size: 100000 MergeSort with cut off 10
+Time elapsed over an average of 998 runs: 9636641
+Size: 100000 MergeSort with cut off 20
+Time elapsed over an average of 998 runs: 9115470
+Size: 100000 MergeSort with cut off 30
+Time elapsed over an average of 998 runs: 8389002
+Size: 100000 MergeSort with cut off 50
+Time elapsed over an average of 998 runs: 8382721
+Size: 100000 QuickSort
+Time elapsed over an average of 998 runs: 7634519
+Size: 100000 QuickSortMOT
+Time elapsed over an average of 998 runs: 8027951

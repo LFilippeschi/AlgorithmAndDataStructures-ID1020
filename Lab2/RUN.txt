@@ -1,0 +1,63 @@
+java Lab2.java 10 0
+java Lab2.java 10 1
+java Lab2.java 10 2 5
+java Lab2.java 10 2 10 
+java Lab2.java 10 2 20 
+java Lab2.java 10 2 30 
+java Lab2.java 10 2 50 
+java Lab2.java 10 3
+java Lab2.java 10 4
+java Lab2.java 100 0
+java Lab2.java 100 1
+java Lab2.java 100 2 5
+java Lab2.java 100 2 10 
+java Lab2.java 100 2 20 
+java Lab2.java 100 2 30 
+java Lab2.java 100 2 50 
+java Lab2.java 100 3
+java Lab2.java 100 4
+java Lab2.java 1000 0
+java Lab2.java 1000 1
+java Lab2.java 1000 2 5
+java Lab2.java 1000 2 10 
+java Lab2.java 1000 2 20 
+java Lab2.java 1000 2 30 
+java Lab2.java 1000 2 50 
+java Lab2.java 1000 3
+java Lab2.java 1000 4
+java Lab2.java 10000 0
+java Lab2.java 10000 1
+java Lab2.java 10000 2 5
+java Lab2.java 10000 2 10 
+java Lab2.java 10000 2 20 
+java Lab2.java 10000 2 30 
+java Lab2.java 10000 2 50 
+java Lab2.java 10000 3
+java Lab2.java 10000 4
+java Lab2.java 100000 0
+java Lab2.java 100000 1
+java Lab2.java 100000 2 5
+java Lab2.java 100000 2 10 
+java Lab2.java 100000 2 20 
+java Lab2.java 100000 2 30 
+java Lab2.java 100000 2 50 
+java Lab2.java 100000 3
+java Lab2.java 100000 4
+java Lab2.java 1000000 0
+java Lab2.java 1000000 1
+java Lab2.java 1000000 2 5
+java Lab2.java 1000000 2 10 
+java Lab2.java 1000000 2 20 
+java Lab2.java 1000000 2 30 
+java Lab2.java 1000000 2 50 
+java Lab2.java 1000000 3
+java Lab2.java 1000000 4
+java Lab2.java 10000000 0
+java Lab2.java 10000000 1
+java Lab2.java 10000000 2 5
+java Lab2.java 10000000 2 10 
+java Lab2.java 10000000 2 20 
+java Lab2.java 10000000 2 30 
+java Lab2.java 10000000 2 50 
+java Lab2.java 10000000 3
+java Lab2.java 10000000 4

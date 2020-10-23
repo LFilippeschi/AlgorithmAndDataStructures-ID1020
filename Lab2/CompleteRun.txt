@@ -1,0 +1,18 @@
+java Lab2.java 1000000 0
+java Lab2.java 1000000 1
+java Lab2.java 1000000 2 5
+java Lab2.java 1000000 2 10 
+java Lab2.java 1000000 2 20 
+java Lab2.java 1000000 2 30 
+java Lab2.java 1000000 2 50 
+java Lab2.java 1000000 3
+java Lab2.java 1000000 4
+java Lab2.java 10000000 0
+java Lab2.java 10000000 1
+java Lab2.java 10000000 2 5
+java Lab2.java 10000000 2 10 
+java Lab2.java 10000000 2 20 
+java Lab2.java 10000000 2 30 
+java Lab2.java 10000000 2 50 
+java Lab2.java 10000000 3
+java Lab2.java 10000000 4
